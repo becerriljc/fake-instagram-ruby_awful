@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "activerecord-postgis-adapter", "11.0.0"
 gem "bcrypt", "3.1.20"
-gem "bootsnap", "1.18.4", require: false
+gem "bootsnap", "1.18.6", require: false
 gem "jbuilder", "2.13.0"
 gem "kamal", "2.5.3", require: false
 gem "pg", "1.5.9"
