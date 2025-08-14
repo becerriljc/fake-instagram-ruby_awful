@@ -10,7 +10,7 @@ gem "puma", "6.6.0"
 gem "rack-cors", "2.0.2"
 gem "rails", "8.0.1"
 gem "solid_cache", "1.0.7"
-gem "solid_cable", "3.0.7"
+gem "solid_cable", "3.0.12"
 gem "solid_queue", "1.1.3"
 gem "thruster", "0.1.12", require: false
 gem "tzinfo-data", "1.2025.1", platforms: %i[ windows jruby ]
