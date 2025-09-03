@@ -5,7 +5,7 @@ gem "bcrypt", "3.1.20"
 gem "bootsnap", "1.18.4", require: false
 gem "jbuilder", "2.13.0"
 gem "kamal", "2.5.3", require: false
-gem "pg", "1.5.9"
+gem "pg", "1.6.2"
 gem "puma", "6.6.0"
 gem "rack-cors", "2.0.2"
 gem "rails", "8.0.1"
