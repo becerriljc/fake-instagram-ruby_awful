@@ -8,7 +8,7 @@ gem "kamal", "2.5.3", require: false
 gem "pg", "1.5.9"
 gem "puma", "6.6.0"
 gem "rack-cors", "2.0.2"
-gem "rails", "8.0.1"
+gem "rails", "8.0.3"
 gem "solid_cache", "1.0.7"
 gem "solid_cable", "3.0.7"
 gem "solid_queue", "1.1.3"
